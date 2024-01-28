@@ -1,5 +1,8 @@
 <p align="center">
   <img src="/gameloop_hk4tech.png">
+
+   [![Review On Youtube](https://img.youtube.com/vi/l7LpX1nnbJQ/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
+   
 </p>
 <h1 align="center">Gameloop Portable 2024</h1>
 
@@ -23,5 +26,5 @@
 </p>
 
 <p align="center">
-  [![Review On Youtube](https://img.youtube.com/vi/l7LpX1nnbJQ/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
+ 
 </p>
