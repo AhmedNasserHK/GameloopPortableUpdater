@@ -24,4 +24,4 @@
 </p>
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/l7LpX1nnbJQ/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
