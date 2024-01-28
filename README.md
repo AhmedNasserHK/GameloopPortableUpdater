@@ -22,9 +22,6 @@
   <br>
 </p>
 
-
-<center>
-  
-[![Review On Youtube](https://img.youtube.com/vi/l7LpX1nnbJQ/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
-
-</center>
+<p align="center">
+  [![Review On Youtube](https://img.youtube.com/vi/l7LpX1nnbJQ/0.jpg)](https://youtu.be/l7LpX1nnbJQ "Everything Is AWESOME")
+</p>
