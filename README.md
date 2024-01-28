@@ -22,3 +22,7 @@
   <br>
 
 </p>
+
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://youtu.be/l7LpX1nnbJQ "Now in Android: 55")    // Video Link      
