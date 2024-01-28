@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Multimedia Application UI/_NewIconTrans.png">
+  <img src="/gameloop_hk4tech.png">
 </p>
 <h1 align="center">Gameloop Portable 2024</h1>
 
