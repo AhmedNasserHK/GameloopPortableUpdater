@@ -4,7 +4,7 @@
 <h1 align="center">Gameloop Portable 2024</h1>
 
 <p align="center">
-  <a href="https://hk4tech.com/home/GameloopPortableUpdater">Gameloop Portable</a> Gameloop Portable With Full Control.
+  <a href="https://hk4tech.com/g-tut/gameloopportable">Gameloop Portable</a> Gameloop Portable With Full Control.
   <br><br>
   <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/GameloopPortableUpdater?include_prereleases">
