@@ -16,11 +16,11 @@
   <a href="https://hk4tech.com/home/GameloopPortableUpdater">
   </a>
   <br>
-  v9.3.1.0 (Gameloop Portable Full) - Apr 20, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0/Gameloop.Portable.FULL.v9.3.1.0.7z">Download (12.08 MB)</a>
+  v9.3.1.0 (Gameloop Portable Full) - Apr 24, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0r/Gameloop.Portable.FULL.v9.3.1.0.7z">Download (8.60 MB)</a>
    <br>
-  v9.3.1.0 (Update Only) - Apr 20, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0/Gameloop.Portable.Update.Only.v9.3.1.0.7z">Download (8.88 MB)</a>
+  v9.3.1.0 (Update Only) - Apr 24, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0r/Gameloop.Portable.Update.Only.v9.3.1.0.7z">Download (4.66 MB)</a>
   <br>
-  v9.2.3.0 (Gameloop Portable Full 32Bit Plug & Run) - Apr 17, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.2.3.0/Gameloop.Portable.32Bit.Plug.Run.v9.2.3.0.url">Download (2.11 GB)</a>
+  v9.3.1.0 (Gameloop Portable Full 32Bit Plug & Run) - Apr 24, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0r/Gameloop.Portable.32Bit.Plug.Run.v9.3.1.0.url">Download (1.80 GB)</a>
   <br>
 
 
