@@ -23,6 +23,9 @@
   v9.3.1.0r (Gameloop Portable Full 32Bit Plug & Run) - Apr 24, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/9.3.1.0r/Gameloop.Portable.32Bit.Plug.Run.v9.3.1.0.url">Download (1.80 GB)</a>
   <br>
 
+<p><strong>🔆 Gameloop Portable Full:</strong><br /><em>This's a full portable with all files just need your gameloop emulator to get into this folder.</em></p>
+<p><strong>🔆 Update Only:</strong><br /><em>if you already own the full portable and ready to use, this your only update files copy them and replace with old.</em></p>
+<p><strong>🔆Gameloop Portable Full 32Bit Plug &amp; Run:</strong><br /><em>This my Gift for you, gameloop portable ready to use, extract then download any game or app you want, already contain the latest update of gameloop emulator.</em></p>
 
 ## 🎬 Review On Youtube:
 
