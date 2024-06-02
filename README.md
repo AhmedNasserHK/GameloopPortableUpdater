@@ -16,11 +16,11 @@
   <a href="https://hk4tech.com/home/GameloopPortableUpdater">
   </a>
   <br>
-  v10.2.7.3 (Gameloop Portable Full) - May 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.FULL.v10.2.7.3.7z">Download (8.72 MB)</a>
+  v10.2.7.3 (Gameloop Portable Full) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.FULL.v10.2.7.3.7z">Download (15.05 MB)</a>
    <br>
-  v10.2.7.3 (Update Only) - May 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.Update.Only.v10.2.7.3.7z">Download (4.78 MB)</a>
+  v10.2.7.3 (Update Only) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.Update.Only.v10.2.7.3.7z">Download (11.06 MB)</a>
   <br>
-  v10.2.7.3 (Gameloop Portable Full 32Bit Plug & Run) - Apr 24, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.32Bit.Plug.Run.v10.2.7.3.url">Download (2.11 GB)</a>
+  v10.2.7.3 (Gameloop Portable Full 32Bit Plug & Run) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.32Bit.Plug.Run.v10.2.7.3.url">Download (2.11 GB)</a>
   <br>
 
 <p style="text-align: center;"><strong>🔆 Gameloop Portable Full:</strong><br /><em>This's a full portable with all files just need your gameloop emulator to get into this folder.</em></p>
