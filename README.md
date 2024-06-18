@@ -16,6 +16,8 @@
   <a href="https://hk4tech.com/home/GameloopPortableUpdater">
   </a>
   <br>
+  (Optional) (HOTFIX For v10.2.7.3) - June 18, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.FIX.v10.2.7.3.zip">Download (6.09 MB)</a> [<a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/tag/10.2.7.3">HOTFIX Description</a>]
+  <br>
   v10.2.7.3 (Gameloop Portable Full) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.FULL.v10.2.7.3.7z">Download (15.05 MB)</a>
    <br>
   v10.2.7.3 (Update Only) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.Update.Only.v10.2.7.3.7z">Download (11.06 MB)</a>
