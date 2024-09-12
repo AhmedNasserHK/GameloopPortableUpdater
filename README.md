@@ -16,9 +16,9 @@
   <a href="https://hk4tech.com/home/GameloopPortableUpdater">
   </a>
   <br>
-  v11.0.2024.9 (Gameloop Portable Full) - Sep 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/11.0.2024.9/Gameloop.Portable.FULL.v11.0.2024.9.7z">Download (15.07 MB)</a>
+  v11.0.2024.9 (Gameloop Portable Full) - Sep 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/11.0.2024.9/Gameloop.Portable.FULL.v11.0.2024.9.7z">Download (15.73 MB)</a>
    <br>
-  v11.0.2024.9 (Update Only) - Sep 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/11.0.2024.9/Gameloop.Portable.Update.Only.v11.0.2024.9.7z">Download (11.09 MB)</a>
+  v11.0.2024.9 (Update Only) - Sep 12, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/11.0.2024.9/Gameloop.Portable.Update.Only.v11.0.2024.9.7z">Download (11.90 MB)</a>
   <br>
   v10.2.7.3 (Gameloop Portable Full 32Bit Plug & Run) - June 02, 2024 - <a href="https://github.com/AhmedNasserHK/GameloopPortableUpdater/releases/download/10.2.7.3/Gameloop.Portable.32Bit.Plug.Run.v10.2.7.3.HTML">Download (2.12 GB)</a>
   <br>
